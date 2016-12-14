@@ -1,0 +1,2 @@
+git clone works for root but doesn't work with user on Centos.
+
