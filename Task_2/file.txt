@@ -1,4 +1,4 @@
-git clone works for root but doesn't work with user on Centos.
+Git clone works for root but doesn't work with user on Centos.
 Add the row for second commit in dev branch.
 Add the third row
 The row added after git checkout dev command. 
