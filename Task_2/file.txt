@@ -3,3 +3,5 @@ Add the row for second commit in dev branch.
 Add the third row
 The row added after git checkout dev command. 
 http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo; - cool!
+
+Add the line in *master branch
