@@ -1,2 +1,1 @@
-Add this.
-Fighting with git. 
+Task result stored in appropriate folders.
