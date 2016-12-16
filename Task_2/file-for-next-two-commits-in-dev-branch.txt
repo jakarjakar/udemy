@@ -1,0 +1,2 @@
+Hihere is a first line.
+Second line for achive 'M' in output by git status -s
